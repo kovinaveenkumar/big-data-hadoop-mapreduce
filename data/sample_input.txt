@@ -1,0 +1,4 @@
+the quick brown fox jumps over the lazy dog
+the dog barks and the fox runs
+big data with hadoop and mapreduce
+hadoop processes big data at scale
